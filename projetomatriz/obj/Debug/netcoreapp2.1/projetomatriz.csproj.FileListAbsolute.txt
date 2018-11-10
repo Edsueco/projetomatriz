@@ -1,0 +1,11 @@
+/Users/aluno/Projects/projetomatriz/projetomatriz/bin/Debug/netcoreapp2.1/projetomatriz.deps.json
+/Users/aluno/Projects/projetomatriz/projetomatriz/bin/Debug/netcoreapp2.1/projetomatriz.runtimeconfig.json
+/Users/aluno/Projects/projetomatriz/projetomatriz/bin/Debug/netcoreapp2.1/projetomatriz.runtimeconfig.dev.json
+/Users/aluno/Projects/projetomatriz/projetomatriz/bin/Debug/netcoreapp2.1/projetomatriz.dll
+/Users/aluno/Projects/projetomatriz/projetomatriz/bin/Debug/netcoreapp2.1/projetomatriz.pdb
+/Users/aluno/Projects/projetomatriz/projetomatriz/obj/Debug/netcoreapp2.1/projetomatriz.csprojAssemblyReference.cache
+/Users/aluno/Projects/projetomatriz/projetomatriz/obj/Debug/netcoreapp2.1/projetomatriz.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/projetomatriz/projetomatriz/obj/Debug/netcoreapp2.1/projetomatriz.AssemblyInfoInputs.cache
+/Users/aluno/Projects/projetomatriz/projetomatriz/obj/Debug/netcoreapp2.1/projetomatriz.AssemblyInfo.cs
+/Users/aluno/Projects/projetomatriz/projetomatriz/obj/Debug/netcoreapp2.1/projetomatriz.dll
+/Users/aluno/Projects/projetomatriz/projetomatriz/obj/Debug/netcoreapp2.1/projetomatriz.pdb
